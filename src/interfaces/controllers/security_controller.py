@@ -20,7 +20,7 @@ async def cyber_intelligence_categories():
         "categories": [
             "breaches",
             "certificates",
-            "dns",
+            "email_security",
             "github_mentions",
             "google_dorks",
         ]

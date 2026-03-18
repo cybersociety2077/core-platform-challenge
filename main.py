@@ -8,5 +8,3 @@ app = FastAPI()
 app.include_router(security_controller.router)
 app.include_router(performance_controller.router)
 app.include_router(automation_controller.router)
-
-
